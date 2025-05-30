@@ -24,9 +24,9 @@ All designed to help your animation breathe that handmade spirit — without the
 
 ## 📦 Installation
 
-1. Download the `.py` file of the addon or save the script with your preferred name.
-2. In Blender, go to **Edit > Preferences > Add-ons**.
-3. Click **Install...**, select the file, and activate it.
+1. Download the 'Stopomotion.zip' file.
+2. In Blender, go to **Edit > Preferences > Add-ons > install from disk**.
+3. Searh for the zip file and Click **Install...**, and activate it.
 4. Done! You’ve got Stop-O-motion in your setup.
 
 ---
