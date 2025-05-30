@@ -1,3 +1,5 @@
+![tapa](https://github.com/infamedavid/Stop-O-motioN/blob/main/SOMtapa.png?raw=true)
+
 # 🏃‍♀️ Stop-O-motion for Blender
 
 **Turn your fluid and boring animation into a stop motion-style animation.**
