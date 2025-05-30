@@ -1,4 +1,4 @@
-# 🛑 Stop-O-motion for Blender
+# 🏃‍♀️ Stop-O-motion for Blender
 
 **Turn your fluid and boring animation into a stop motion-style animation.**
 
@@ -6,7 +6,7 @@ Stop-O-motion is an addon for Blender that lets you give your animations that ha
 
 ---
 
-## ✨ Stop Motion Aesthetic (according to Stop-O-motion)
+## ✨ Stop Motion Aesthetic
 
 Stop motion animation isn't smooth. It has rhythm, it has jumps — it has that handmade charm. This addon captures that vibe with features that let you:
 
@@ -17,6 +17,7 @@ Stop motion animation isn't smooth. It has rhythm, it has jumps — it has that 
 
 All designed to help your animation breathe that handmade spirit — without the hassle.
 
+![UI](https://github.com/infamedavid/Stop-O-motioN/blob/main/stopomotionui.png?raw=true)
 ---
 
 ## 📦 Installation
@@ -43,10 +44,8 @@ From there, you can:
 
 ## 📜 License
 
-Stop-O-motion is free software, licensed under the **GNU GPL v3**. Do what you want with it — and if you improve it, share it with the community!
+Stop-O-motion is free software, licensed under the **GNU GPL v3**. 
 
 ---
 
-Enjoy animating like you’re in your garage with a camera and a whole lot of patience.
-
-**Happy keyframing!**
+**Happy blending!**
