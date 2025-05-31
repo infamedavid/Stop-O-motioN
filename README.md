@@ -2,7 +2,7 @@
 
 # 🏃‍♀️ Stop-O-motion for Blender
 
-**Turn your fluid and boring animation into a stop motion-style animation.**
+**Turn your perfectly fluid and boring animation into a stop motion style animation..**
 
 Stop-O-motion is an addon for Blender that lets you give your animations that handmade, irregular feel typical of frame-by-frame stop motion. Perfect for anyone looking to break free from the perfectly interpolated flow of traditional 3D and get closer to that more human, imperfect rhythm.
 
